@@ -2,6 +2,7 @@
 /gems_dev
 /.rbx
 .*.swp
+.bundle
 .idea/
 temp/
 .rvmrc
